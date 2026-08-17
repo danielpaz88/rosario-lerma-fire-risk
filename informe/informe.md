@@ -2,7 +2,7 @@
 
 **Elaborado por:** Sergio Daniel Paz 
 **Fecha:** Agosto 2026    
-**Mapas interactivos:** [Susceptibilidad](../mapas/Susceptibilidad_Rosario_Lerma_interactivo.html) · [Amenaza ajustada](../mapas/Amenaza_ajustado_interactivo.html)
+**Mapas interactivos:** [Susceptibilidad](../mapas/Susceptibilidad_Rosario_Lerma_interactivo.html) · [Amenaza](../mapas/Amenaza_ajustado_interactivo.html)
 
 ---
 
