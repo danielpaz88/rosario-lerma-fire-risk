@@ -18,7 +18,7 @@ Este proyecto tiene como misión generar mapas de **susceptibilidad** y **amenaz
 | **Susceptibilidad** | Muy Baja | 3.382 | 59,7% |
 | **Amenaza** | Muy Baja / Moderada | 2.546 / 2.053 | 44,9% / 36,2% |
 
-[Mapa de Amenaza de incendio](informe/img/comparativo_sus_amen_espacial_ajustado.png)
+[Mapa comparativo de Susceptibilidad y Amenaza de incendio](informe/img/comparativo_sus_amen_espacial_ajustado.png)
 
 ## 📂 Contenido del repositorio
 - [`informe/informe.md`](informe/informe.md) – informe técnico completo.
