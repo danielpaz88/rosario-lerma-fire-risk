@@ -2,7 +2,7 @@
 
 **Elaborado por:** Sergio Daniel Paz 
 **Fecha:** Agosto 2026    
-**Mapas interactivos:** [Susceptibilidad](../mapas/Susceptibilidad_Rosario_Lerma_interactivo.html) · [Amenaza](../mapas/Amenaza_ajustado_interactivo.html)
+**Mapas interactivos:** [Susceptibilidad]([https://tusuario.github.io/nombre-repositorio/mapas/Susceptibilidad_Rosario_Lerma_interactivo.html](https://github.com/danielpaz88/rosario-lerma-fire-risk/blob/main/mapas/Susceptibilidad_Rosario_Lerma_interactivo.html)) · [Amenaza]([https://tusuario.github.io/nombre-repositorio/mapas/Amenaza_ajustado_interactivo.html](https://github.com/danielpaz88/rosario-lerma-fire-risk/blob/main/mapas/Amenaza_ajustado_interactivo.html))
 
 ---
 
