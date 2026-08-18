@@ -26,7 +26,7 @@ Este proyecto tiene como misión generar mapas de **susceptibilidad** y **amenaz
 
 ## 🔗 Mapas interactivos
 - [Mapa de Susceptibilidad](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Susceptibilidad_Rosario_Lerma_interactivo.html)
-- [Mapa de Amenaza](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Amenaza_ajustado_interactivo.html)
+- [Mapa de Amenaza](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Amenaza_Rosario_Lerma_interactivo.html)
 
 ## 📖 Informe completo
 [Leer informe técnico](informe/informe.md)
