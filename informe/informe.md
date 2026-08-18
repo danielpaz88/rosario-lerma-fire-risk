@@ -4,7 +4,7 @@
 **Fecha:** Agosto 2026    
 **Mapas interactivos:** 
 
-- [Mapa de Susceptibilidad](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Susceptibilidad_Rosario_Lerma_interactivo.html)
+- [Mapa de Susceptibilidad](https://github.com/danielpaz88/rosario-lerma-fire-risk/blob/main/mapas/Susceptibilidad_Rosario_Lerma_interactivo.html)
 - [Mapa de Amenaza](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Amenaza_ajustado_interactivo.html)
 
 ---
