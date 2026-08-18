@@ -1,11 +1,13 @@
 # Zonificación de Amenaza y Susceptibilidad a Incendios – Rosario de Lerma, Salta, Argentina
 
-**Elaborado por:** Sergio Daniel Paz 
+**Elaborado por:** Sergio Daniel Paz
+
 **Fecha:** Agosto 2026    
+
 **Mapas interactivos:** 
 
 - [Mapa de Susceptibilidad](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Susceptibilidad_Rosario_Lerma_interactivo.html)
-- [Mapa de Amenaza](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Amenaza_ajustado_interactivo.html)
+- [Mapa de Amenaza](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Amenaza_Rosario_Lerma_interactivo.html)
 
 ---
 
