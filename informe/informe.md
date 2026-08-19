@@ -226,7 +226,7 @@ El flujo de trabajo se realizó en GEE.
 ---
 
 **Para consultas:** sergiodanielpaz13@gmail.com
-
+https://www.linkedin.com/in/sergio-daniel-paz/
 ---
 
 **Fin del informe**
