@@ -55,7 +55,7 @@ El flujo de trabajo se realizó en GEE.
    - **Pendiente** (pendiente del terreno)
    - **Accesibilidad** (distancia a carreteras con rangos ajustados)
 
- Resolución	Espacial del Mapa interactivo de Susceptibilidad: 300 m
+ Resolución	Espacial del Mapa interactivo de Susceptibilidad: 150 m
  Resolución	Espacial del Mapa interactivo de Amenaza: 150 m
 
 
