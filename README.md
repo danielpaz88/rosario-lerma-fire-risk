@@ -1,6 +1,6 @@
 # Zonificación de Amenaza de Incendios en Rosario de Lerma, Salta
 
-Este proyecto tiene como misión generar mapas de **susceptibilidad** y **amenaza** a incendios de la cobertura vegetal en el departamento de Rosario de Lerma (Salta, Argentina). Los productos generados son herramientas operativas para bomberos y gestores de riesgo.
+Este proyecto tiene como misión generar mapas de **susceptibilidad** y **amenaza** de incendios de la cobertura vegetal en el departamento de Rosario de Lerma (Salta, Argentina). Los productos generados son herramientas operativas para bomberos y gestores de riesgo.
 
 ## 🎯 Objetivos
 - Generar un mapa de susceptibilidad basado en la vegetación.
@@ -32,5 +32,5 @@ Este proyecto tiene como misión generar mapas de **susceptibilidad** y **amenaz
 [Leer informe técnico](informe/informe.md)
 
 ## ⚠️ Limitaciones
-- Los rangos climáticos y pesos fueron adaptados para Salta; se recomienda validación de campo.
+- La resolución espacial de los productos satelitales puede omitir detalles/características finas locales.
 - La red vial puede tener omisiones en caminos rurales.
