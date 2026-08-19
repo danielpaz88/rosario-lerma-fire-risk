@@ -37,6 +37,70 @@ Este estudio evalúa la amenaza a partir de factores ambientales y antrópicos, 
 - **Susceptibilidad:** característica intrínseca de la vegetación (tipo, carga, duración y humedad del combustible) que determina su probabilidad de ignición y propagación.
 - **Amenaza:** probabilidad de que ocurra un incendio en un sitio y tiempo determinado, considerando factores ambientales y antrópicos.
 
+## 🌿 Interpretación de las Categorías de Susceptibilidad y Amenaza
+
+Para que los mapas sean una herramienta útil para bomberos, gestores de riesgo y tomadores de decisiones, es fundamental comprender qué significa cada categoría en términos prácticos. A continuación, se detalla el significado de cada nivel de **susceptibilidad** y **amenaza**, y cómo se relacionan con el territorio de Rosario de Lerma.
+
+---
+
+### Susceptibilidad de la Cobertura Vegetal a Incendios
+
+La **susceptibilidad** mide la **predisposición natural de la vegetación a incendiarse, propagar y mantener el fuego**. Depende de características intrínsecas de la vegetación: **tipo de combustible** (pastos, arbustos, árboles), **carga de biomasa** (cantidad de material combustible) y **duración** (tiempo que tarda en secarse y arder). **No considera factores externos** como el clima o la actividad humana.
+
+En Rosario de Lerma, la vegetación varía desde pastizales de altura y suelos desnudos en la Puna, hasta bosques montanos y arbustales en las laderas de los valles.
+
+| Categoría | Significado práctico | Ejemplos en el territorio |
+|-----------|----------------------|---------------------------|
+| **Muy Baja** | Vegetación con **muy poca o nula capacidad de arder**. Son áreas donde el fuego no se propaga o se extingue rápidamente. | • Suelos desnudos, rocas, nieves perpetuas.<br>• Cuerpos de agua (lagunas, ríos).<br>• Zonas urbanas consolidadas (sin vegetación). |
+| **Baja** | Vegetación con **baja carga de combustible y lenta capacidad de ignición**. Si se produce un incendio, avanza lentamente y es fácil de controlar. | • Pastizales dispersos en zonas de alta montaña.<br>• Cultivos herbáceos de baja densidad.<br>• Áreas con vegetación muy esporádica. |
+| **Moderada** | Vegetación con **combustible intermedio** (arbustos y herbáceas) que puede arder con cierta intensidad, pero sin alcanzar gran virulencia. | • Arbustales abiertos con pastos.<br>• Mosaicos de cultivos y pastos con espacios naturales.<br>• Bosques de galería muy fragmentados. |
+| **Alta** | Vegetación con **alta carga de combustible y fácil ignición**. Los incendios tienden a propagarse rápidamente y son difíciles de controlar. | • Bosques densos de queñoa y aliso.<br>• Arbustales densos con alta biomasa.<br>• Pastizales enmalezados (con matorrales). |
+| **Muy Alta** | Vegetación con **máxima carga de combustible, altamente inflamable y de rápida propagación**. Los incendios son extremadamente intensos y peligrosos. | • Bosques secos de montaña con mucho material muerto.<br>• Plantaciones forestales de coníferas (pinos, eucaliptos).<br>• Pastizales secos y continuos en zonas de transición. |
+
+---
+
+### Amenaza de Incendios de la Cobertura Vegetal
+
+La **amenaza** es un concepto más amplio. Integra la **susceptibilidad de la vegetación** con **factores externos** que aumentan la probabilidad de que ocurra un incendio:
+
+- **Clima** (baja precipitación, altas temperaturas).
+- **Topografía** (pendientes pronunciadas que aceleran la propagación).
+- **Accesibilidad** (cercanía a carreteras y centros poblados, que facilita la ignición por actividades humanas).
+- **Frecuencia histórica** (zonas con mayor recurrencia de incendios).
+
+La amenaza representa, por lo tanto, la **probabilidad de que se produzca un incendio en un lugar y momento determinado**, considerando tanto las condiciones ambientales como las antrópicas.
+
+| Categoría | Significado práctico | Implicaciones para la gestión |
+|-----------|----------------------|-------------------------------|
+| **Muy Baja** | Zonas donde **es muy poco probable que ocurra un incendio**. Si ocurre, será de baja intensidad y fácil de controlar. | • No requieren acciones preventivas prioritarias.<br>• Monitoreo ocasional. |
+| **Baja** | Zonas con **baja probabilidad de incendio**, pero donde las condiciones pueden volverse favorables en épocas secas extremas. | • Mantener vigilancia en periodos de sequía.<br>• Realizar quemas prescritas controladas (si es necesario). |
+| **Moderada** | Zonas con **probabilidad intermedia de incendio**. Las condiciones climáticas y de accesibilidad pueden desencadenar eventos de cierta importancia. | • Implementar medidas preventivas (cortafuegos, educación comunitaria).<br>• Tener recursos de extinción disponibles en la zona. |
+| **Alta** | Zonas con **alta probabilidad de incendio**, especialmente en épocas secas y calurosas. Los incendios tienden a ser intensos y de rápida propagación. | • Priorizar la prevención (patrullajes, restricciones de quema).<br>• Mantener brigadas de primera respuesta en la zona.<br>• Establecer cortafuegos estratégicos. |
+| **Muy Alta** | Zonas con **máxima probabilidad de incendio**, donde las condiciones son extremadamente favorables para la ignición y propagación. Los incendios pueden ser catastróficos. | • **Máxima prioridad** para prevención y respuesta.<br>• Implementar sistemas de alerta temprana.<br>• Tener planes de evacuación y recursos de extinción masivos disponibles.<br>• Restringir actividades humanas en épocas críticas. |
+
+---
+
+### ¿Cómo se combinan Susceptibilidad y Amenaza en el mapa?
+
+Es importante entender que **una zona con alta susceptibilidad no necesariamente tendrá alta amenaza**, y viceversa. Por ejemplo:
+
+- **Alta susceptibilidad + Baja accesibilidad** (zonas remotas de bosque denso): la amenaza puede ser **moderada** porque, aunque la vegetación arde fácilmente, es difícil que un humano llegue a encender un fuego.
+- **Baja susceptibilidad + Alta accesibilidad** (pastizales cerca de una carretera): la amenaza puede ser **alta** porque, aunque la vegetación no arde con facilidad, la presencia humana (fogatas, colillas, quema de basura) aumenta la probabilidad de ignición.
+
+**El mapa de amenaza integra todos estos factores**, mostrando las áreas donde **la combinación de vegetación inflamable, clima seco, pendientes pronunciadas y cercanía a vías o poblados** hace que el riesgo de incendio sea mayor.
+
+---
+
+### ¿Qué significa que un área sea de "Amenaza Muy Alta" en Rosario de Lerma?
+
+En el contexto de este estudio, las áreas de **Amenaza Muy Alta** (1% del territorio) corresponden a:
+
+- **Zonas periurbanas** (alrededor de Rosario de Lerma y Campo Quijano) donde hay vegetación seca y alta densidad de vías.
+- **Corredores viales principales** (RN 51 y rutas departamentales) donde la actividad humana es constante.
+- **Áreas de interfaz urbano-forestal**, donde los asentamientos humanos limitan con bosques o arbustales densos.
+
+Estas son las zonas donde **los bomberos y los gestores de riesgo deben concentrar sus esfuerzos de prevención y respuesta**, ya que un incendio en estas áreas pondría en peligro vidas humanas, infraestructura y servicios esenciales.
+
 ---
 
 ## 4. Metodología
