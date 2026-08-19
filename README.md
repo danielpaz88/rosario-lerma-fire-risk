@@ -32,5 +32,7 @@ Este proyecto tiene como misión generar mapas de **susceptibilidad** y **amenaz
 - La red vial puede tener omisiones en caminos rurales.
 
 ## Consultas: 
+
 sergiodanielpaz13@gmail.com
+
 https://www.linkedin.com/in/sergio-daniel-paz/
