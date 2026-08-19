@@ -20,10 +20,6 @@ Este proyecto tiene como misión generar mapas de **susceptibilidad** y **amenaz
 
 [Mapa comparativo de Susceptibilidad y Amenaza de incendio](informe/img/comparativo_sus_amen_espacial_ajustado.png)
 
-## 📂 Contenido del repositorio
-- [`informe/informe.md`](informe/informe.md) – informe técnico completo.
-- [`resultados/`](resultados/) – tablas CSV con áreas y estadísticas.
-
 ## 🔗 Mapas interactivos
 - [Mapa de Susceptibilidad](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Susceptibilidad_Rosario_Lerma_interactivo.html)
 - [Mapa de Amenaza](https://danielpaz88.github.io/rosario-lerma-fire-risk/mapas/Amenaza_Rosario_Lerma_interactivo.html)
