@@ -117,7 +117,7 @@ El flujo de trabajo se realizó en GEE.
    - **Precipitación**
    - **Temperatura**
    - **Pendiente** (pendiente del terreno)
-   - **Accesibilidad** (distancia a carreteras con rangos ajustados)
+   - **Accesibilidad** (distancia a carreteras)
 
  Resolución	Espacial del Mapa interactivo de Susceptibilidad: 150 m
  Resolución	Espacial del Mapa interactivo de Amenaza: 150 m
