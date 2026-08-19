@@ -157,7 +157,7 @@ El flujo de trabajo se realizó en GEE.
 
 ---
 
-**Para consultas o solicitud de datos, contactar a:** sergiodanielpaz13@gmail.com, 
+**Para consultas:** sergiodanielpaz13@gmail.com
 
 ---
 
